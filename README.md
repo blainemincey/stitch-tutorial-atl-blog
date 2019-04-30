@@ -19,7 +19,12 @@ Specifically, this tutorial is for building a Basic Blog using MongoDB Stitch.
 Follow along the step-by-step instructions for the Blog App by following the documentation
 that is located here:  https://docs.mongodb.com/stitch/tutorials/guides/blog-backend/
 
-The original version of the HTML file is located within this tutorial here:      
+The original version of the HTML file is located within this tutorial here:  https://github.com/blainemincey/stitch-tutorial-atl-blog/blob/master/blog.html
+
+An updated version of this page which includes Atlanta.local branding as well as
+Bootstrap can be found here:  https://github.com/blainemincey/stitch-tutorial-atl-blog/blob/master/bootstrapBlog.html
+
+
 
 
 
